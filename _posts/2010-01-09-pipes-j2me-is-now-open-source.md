@@ -6,6 +6,7 @@ categories:
   - Pipes J2ME
   - Open Source
 tags: []
+redirect_from: "/wp/2010/01/09/pipes-j2me-is-now-open-source/"
 ---
 
 I have opened the source to the J2ME version of Pipes. If you're interested in contributing to the project, it's hosted on Github:

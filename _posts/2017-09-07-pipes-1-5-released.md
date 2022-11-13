@@ -9,6 +9,7 @@ categories:
 tags: []
 comments: []
 excerpt_separator: <!--no-separator-->
+redirect_from: "/wp/2017/09/07/pipes-1-5-released/"
 ---
 
 This update is long overdue. Thanks to everyone for your patience!

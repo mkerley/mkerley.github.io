@@ -7,6 +7,7 @@ categories:
 tags:
   - iphone
   - siri
+redirect_from: "/wp/2011/10/17/iphone-fixes/"
 ---
 
 Over the weekend, I upgraded from an iPhone 4 on AT&T to an iPhone 4S on Verizon. For the most part, I've been happy with it. But I did have to fix a couple problems. Here are the problems I had, and the solutions I found.

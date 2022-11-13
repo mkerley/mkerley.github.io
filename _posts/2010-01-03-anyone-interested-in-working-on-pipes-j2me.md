@@ -8,6 +8,7 @@ categories:
 tags:
   - Pipes
   - j2me
+redirect_from: "/wp/2010/01/03/anyone-interested-in-working-on-pipes-j2me/"
 ---
 
 A number of people have pointed out that my J2ME version of Pipes doesn't work properly on some newer phones (especially those with touch screens, such as the Blackberry Storm). It is also lacking in features compared to my iPhone version.

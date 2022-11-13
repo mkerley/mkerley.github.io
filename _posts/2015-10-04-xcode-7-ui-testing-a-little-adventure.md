@@ -8,6 +8,7 @@ categories:
 tags: []
 comments: []
 excerpt_separator: <!--more-->
+redirect_from: "/wp/2015/10/04/xcode-7-ui-testing-a-little-adventure/"
 ---
 
 One of the big features announced for developers at this year's WWDC event was [automated UI testing](https://developer.apple.com/videos/play/wwdc2015-406/). This is something I think all developers should be doing in some capacity, whether with Apple's tool or something else.

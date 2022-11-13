@@ -9,6 +9,7 @@ tags:
   - microsoft
   - metro
 excerpt_separator: <!--more-->
+redirect_from: "/wp/2011/10/18/c-renaissance-im-not-so-sure/"
 ---
 
 <aside>

@@ -7,6 +7,7 @@ categories:
 tags:
   - iphone
   - ringtones
+redirect_from: "/wp/2011/10/17/holy-crap-ios-5-finally-lets-you-customize-sounds/"
 ---
 
 I used to customize all the sounds on my Windows Mobile phone (I feel dirty just saying I had one of those) back around ~2006, and I've always wished the iPhone would let me do it. It took a few years, but it finally happened. I'm surprised I haven't seen this new feature mentioned anywhere.
