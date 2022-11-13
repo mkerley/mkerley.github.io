@@ -1,0 +1,23 @@
+aside {
+  float: right;
+  margin: 0 0 2px 10px;
+  max-width: 30%;
+
+  figure {
+    padding: 4px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  img {
+    display: inline;
+    max-width: 100%;
+  }
+}
+
+.post-list {
+  aside {
+    display: none;
+  }
+}
