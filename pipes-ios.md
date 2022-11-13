@@ -2,8 +2,9 @@
 layout: page
 title: Pipes (iOS)
 date: "2009-01-16 02:26:59 -0800"
-redirect_from: "/wp/pipes-iphone"
-redirect_from: "/wp/pipes-iphone/"
+redirect_from:
+  - /wp/pipes-iphone
+  - /wp/pipes-iphone/
 ---
 
 <aside markdown="1">
