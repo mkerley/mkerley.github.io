@@ -5,6 +5,7 @@ date: "2009-01-16 02:26:59 -0800"
 redirect_from:
   - /wp/pipes-iphone
   - /wp/pipes-iphone/
+  - /pipes-iphone/
 ---
 
 <aside markdown="1">
