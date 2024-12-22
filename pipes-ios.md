@@ -34,3 +34,9 @@ Rotate the pipe segments to connect all the pieces. Easy to learn and very addic
 ### Gameplay Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9LFMwq98KUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Privacy Policy
+
+I respect your privacy. Pipes collects your IP address only when you post your time online. This information is used solely to prevent cheating and ensure fair gameplay. Your IP address will never be shared, sold, or used for advertising or any other purpose.
+
+Posting your time online is always optional. If you choose to do so, you agree to this policy. If you have any questions, feel free to contact me.
