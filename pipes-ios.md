@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <aside markdown="1">
-  ![Pipes on the iPhone](/assets/images/2025/01/Pipes-Gameplay-iPhone-16-Pro-Max.png)
+  <img src="/assets/images/2025/01/Pipes-Gameplay-iPhone-16-Pro-Max.png" alt="Pipes on the iPhone" style="border: 4px solid black; border-radius: 6px">
 </aside>
 
 Rotate the pipe segments to connect all the pieces. Easy to learn and very addictive.
