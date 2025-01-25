@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <aside markdown="1">
-  ![Pipes on the iPhone](/assets/images/2017/09/pipes-iphone.png)
+  ![Pipes on the iPhone](/assets/images/2025/01/Pipes-Gameplay-iPhone-16-Pro-Max.png)
 </aside>
 
 Rotate the pipe segments to connect all the pieces. Easy to learn and very addictive.
@@ -33,7 +33,12 @@ Rotate the pipe segments to connect all the pieces. Easy to learn and very addic
 
 ### Gameplay Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9LFMwq98KUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="315" height="560"
+src="https://youtube.com/embed/uVQFwYuDvys"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
 
 ### Privacy Policy
 
